@@ -1,0 +1,1 @@
+{"name":"Local: 1410_CHFHEIST","url":"d:\\101 Days challenge\\Day_2\\1410_CHFHEIST.cpp","tests":[{"id":1722585782408,"input":"4\n2 1 1 1\n3 2 1 1\n5 2 1 2\n14 3 2 5","output":"3\n4\n13\n158"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\101 Days challenge\\Day_2\\1410_CHFHEIST.cpp","group":"local","local":true}

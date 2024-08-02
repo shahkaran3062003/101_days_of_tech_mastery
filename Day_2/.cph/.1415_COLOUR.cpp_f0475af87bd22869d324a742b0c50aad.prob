@@ -1,0 +1,1 @@
+{"name":"Local: 1415_COLOUR","url":"d:\\101 Days challenge\\Day_2\\1415_COLOUR.cpp","tests":[{"id":1722616370893,"input":"4\n1 0 1\n3 3 0\n1 1 1\n0 0 0\n","output":"2\n3\n3\n0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\101 Days challenge\\Day_2\\1415_COLOUR.cpp","group":"local","local":true}

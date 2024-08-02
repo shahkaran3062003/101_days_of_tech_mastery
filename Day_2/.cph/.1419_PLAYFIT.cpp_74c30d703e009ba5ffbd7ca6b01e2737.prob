@@ -1,0 +1,1 @@
+{"name":"Local: 1419_PLAYFIT","url":"d:\\101 Days challenge\\Day_2\\1419_PLAYFIT.cpp","tests":[{"id":1722620394123,"input":"3\n6\n3 7 1 4 2 4\n5\n5 4 3 2 1\n5\n4 3 2 2 3","output":"4\nUNFIT\n1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\101 Days challenge\\Day_2\\1419_PLAYFIT.cpp","group":"local","local":true}

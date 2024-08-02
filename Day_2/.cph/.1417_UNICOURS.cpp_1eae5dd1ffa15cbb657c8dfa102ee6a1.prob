@@ -1,0 +1,1 @@
+{"name":"Local: 1417_UNICOURS","url":"d:\\101 Days challenge\\Day_2\\1417_UNICOURS.cpp","tests":[{"id":1722619569196,"input":"2\n3\n0 1 1\n3\n0 1 2","output":"2\n1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\101 Days challenge\\Day_2\\1417_UNICOURS.cpp","group":"local","local":true}

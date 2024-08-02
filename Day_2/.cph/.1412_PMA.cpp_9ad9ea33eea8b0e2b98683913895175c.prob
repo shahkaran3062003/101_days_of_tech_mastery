@@ -1,0 +1,1 @@
+{"name":"Local: 1412_PMA","url":"d:\\101 Days challenge\\Day_2\\1412_PMA.cpp","tests":[{"id":1722589598199,"input":"2\n2\n10 -10\n7\n-3 -2 -1 0 1 2 3","output":"0\n6"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\101 Days challenge\\Day_2\\1412_PMA.cpp","group":"local","local":true}

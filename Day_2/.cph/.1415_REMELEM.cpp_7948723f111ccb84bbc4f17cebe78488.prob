@@ -1,0 +1,1 @@
+{"name":"Local: 1415_REMELEM","url":"d:\\101 Days challenge\\Day_2\\1415_REMELEM.cpp","tests":[{"id":1722607013146,"input":"3\n1 3\n1\n3 3\n2 2 2\n4 7\n1 4 3 5\n","output":"YES\nNO\nYES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\101 Days challenge\\Day_2\\1415_REMELEM.cpp","group":"local","local":true}

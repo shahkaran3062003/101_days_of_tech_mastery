@@ -1,0 +1,1 @@
+{"name":"Local: 801_DNASTORAGE","url":"d:\\101 Days challenge\\Day_3\\801_DNASTORAGE.cpp","tests":[{"id":1722687464518,"input":"4\n2\n00\n4\n0011\n6\n101010\n4\n1001","output":"A\nAG\nCCC\nCT"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\101 Days challenge\\Day_3\\801_DNASTORAGE.cpp","group":"local","local":true}

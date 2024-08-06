@@ -1,0 +1,1 @@
+{"name":"Local: 879_DIFFCONSEC","url":"d:\\101 Days challenge\\Day_3\\879_DIFFCONSEC.cpp","tests":[{"id":1722687646865,"input":"3\n2\n11\n4\n0101\n5\n00100","output":"1\n0\n2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\101 Days challenge\\Day_3\\879_DIFFCONSEC.cpp","group":"local","local":true}

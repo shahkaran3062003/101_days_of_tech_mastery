@@ -1,0 +1,1 @@
+{"name":"Local: 1420_KCHESS","url":"d:\\101 Days challenge\\Day-8\\1420_KCHESS.cpp","tests":[{"id":1723141542808,"input":"2\n6\n1 0\n0 2\n2 5\n4 4\n5 0\n6 2\n3 2\n4\n5 6\n3 5\n2 8\n-8 -8\n0 0","output":"YES\nNO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\101 Days challenge\\Day-8\\1420_KCHESS.cpp","group":"local","local":true}

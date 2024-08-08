@@ -1,0 +1,1 @@
+{"name":"Local: 1420_PRGIFT","url":"d:\\101 Days challenge\\Day-8\\1420_PRGIFT.cpp","tests":[{"id":1723140773317,"input":"4\n2 1\n1 2\n3 2\n2 6 5\n3 3\n2 4 5\n4 2\n1 2 4 5","output":"YES\nYES\nNO\nYES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\101 Days challenge\\Day-8\\1420_PRGIFT.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: 1420_DIRECTN","url":"d:\\101 Days challenge\\Day_10\\1420_DIRECTN.cpp","tests":[{"id":1723308848614,"input":"3\n12\nLRLRRRLRLLLL\n2\nLR\n4\nLRRL","output":"YES\nNO\nYES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\101 Days challenge\\Day_10\\1420_DIRECTN.cpp","group":"local","local":true}

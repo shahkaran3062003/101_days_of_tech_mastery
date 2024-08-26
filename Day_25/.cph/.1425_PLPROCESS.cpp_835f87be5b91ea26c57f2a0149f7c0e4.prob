@@ -1,0 +1,1 @@
+{"name":"Local: 1425_PLPROCESS","url":"d:\\101 Days challenge\\Day_25\\1425_PLPROCESS.cpp","tests":[{"id":1724613758176,"input":"3\n3\n4 2 3\n6\n1 1 1 1 1 1\n1\n5","output":"5\n3\n5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\101 Days challenge\\Day_25\\1425_PLPROCESS.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: 1423_BOUQUET","url":"d:\\101 Days challenge\\Day_13\\1423_BOUQUET.cpp","tests":[{"id":1723570764051,"input":"1\n1 2 3\n3 2 1\n1 3 4","output":"7"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\101 Days challenge\\Day_13\\1423_BOUQUET.cpp","group":"local","local":true}

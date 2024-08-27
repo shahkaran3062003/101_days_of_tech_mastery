@@ -1,0 +1,1 @@
+{"name":"Local: 1446_FLAGS","url":"d:\\101 Days challenge\\Day_27\\1446_FLAGS.cpp","tests":[{"id":1724785052245,"input":"5\n1\n2\n3\n4\n5","output":"0\n4\n42\n120\n420"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\101 Days challenge\\Day_27\\1446_FLAGS.cpp","group":"local","local":true}
